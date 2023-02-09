@@ -1,7 +1,9 @@
 -  Hi, I’m @jamespopko
-- I’m interested in programming deep learning solutions related to dcgans, written in python
-- I’m currently learning deep learning solutions related to dcgans, written in python
-- I’m looking to collaborate on deep learning solutions related to dcgans, written in python,test
+- I’m interested in developing deep learning solutions related to dcgans, and advanced NLP.
+- I have previously developed deep learning solutions for computer vision using CNN,
+- time series forecasting using a transformer, and NLP using a transformer. 
+- The CNN DL solutions were built using Tensorflow&TFX.  The NLP solution was built using PyTorch.
+- I’m looking to collaborate on DL solutions using advanced NLP techniques.  
 - 📫 How to reach me,  synthys13@gmail.com
 
 <!---
