@@ -2,7 +2,8 @@
 - I’m interested in developing deep learning solutions related to dcgans, and advanced NLP.
 - I have previously developed deep learning solutions for computer vision using CNN,
 - time series forecasting using a transformer, and NLP using a transformer. 
-- The CNN DL solution was built using Tensorflow&TFX.  The NLP solution was built using PyTorch.
+- The CNN DL solution and TimeSeries solution were built using Tensorflow&TFX.  
+- The NLP solution was built using PyTorch.
 - I’m looking to collaborate on DL solutions using advanced NLP techniques.  
 - 📫 How to reach me,  synthys13@gmail.com
 
