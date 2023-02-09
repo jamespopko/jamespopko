@@ -1,7 +1,7 @@
 -  Hi, I’m @jamespopko
 - I’m interested in programming deep learning solutions related to dcgans, written in python
 - I’m currently learning deep learning solutions related to dcgans, written in python
-- I’m looking to collaborate on deep learning solutions related to dcgans, written in python
+- I’m looking to collaborate on deep learning solutions related to dcgans, written in python,test
 - 📫 How to reach me,  synthys13@gmail.com
 
 <!---
